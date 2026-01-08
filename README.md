@@ -13,7 +13,7 @@ Reads backend block
 Injects values from backend.hcl
 Stores state in correct S3 key
 
-🧠 Execution Flow (Interview Gold)
+🧠 Execution Flow 
 terraform init  → backend.hcl read → S3 state selected
 terraform plan  → reads remote state
 terraform apply → updates remote state
