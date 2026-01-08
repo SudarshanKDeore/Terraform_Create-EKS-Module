@@ -19,7 +19,7 @@ terraform plan  → reads remote state
 terraform apply → updates remote state
 ```
 ######################################################
-# 📁 Final Folder Structure (Rewritten)
+# 📁 Final Folder Structure
 ```
 terraform-eks/
 │
